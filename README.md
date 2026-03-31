@@ -126,5 +126,5 @@ Power Failure · Overstrain Failure · Random Failure
 
 ## Faculty
 
-Dr. P Kanmani/DSBS
-SRM Institute of Science and Technology
+* **[Dr. Kanmani P](https://www.srmist.edu.in/faculty/dr-p-kanmani/)**
+  *Department of Data Science and Business Systems* 
